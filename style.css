@@ -784,12 +784,12 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 #sobre-nosotros
 {
-    background-color: #ffc43b;
+    background-color: #ff1e5e;
 }
 
 #sobre-nosotros .split-color
 {
-    background-color: #ffd23e;
+    background-color: #d41e5b;
 }
 
 
@@ -799,12 +799,12 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 #noticias
 {
-    background-color: #ff1e5e;
+    background-color: #ffc43b;
 }
 
 #noticias .split-color
 {
-    background-color: #d41e5b;
+    background-color: #ffd23e;
 }
 
 .blog-holder-scode
@@ -938,7 +938,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 #precios
 {
-    background-color: #111111;
+    background-color: #ff1e5e;
 }
 
 .precios-table 
@@ -947,7 +947,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
     padding-bottom: 20px;
     overflow: hidden;
     color: #969696;
-    background-color: #000000;
+    background-color: #d41e5b;
     margin-top: 30px;
     max-width: 330px;
     margin-left: auto;
@@ -1111,12 +1111,12 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
 
 #equipo
 {
-    background-color: #ff1e5e;
+    background-color: #111111;
 }
 
 #equipo .split-color
 {
-    background-color: #d41e5b;
+    background-color: #000000;
 }
 
 .member-item-wrapper
