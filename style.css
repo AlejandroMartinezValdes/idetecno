@@ -531,6 +531,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
     text-align: left;
     line-height: 25px;
     width: calc(70% - 25px);
+    text-align: justify;
 }
 
 .servicio-txt h4
@@ -1137,6 +1138,7 @@ body .sm-clean a:hover, body .main-menu.sm-clean .sub-menu li a:hover, body .sm-
     line-height: 35px;
     margin-bottom: 40px;
     font-weight: 100;
+    text-align: justify;
 }
 
 #equipo-holder 

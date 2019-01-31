@@ -283,6 +283,7 @@ sub
 .last{
     margin-right: 0 !important;
     clear: right;
+    text-align: justify;
 }
 .one{
     float: none;
