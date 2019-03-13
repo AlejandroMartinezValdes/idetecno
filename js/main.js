@@ -431,7 +431,7 @@ var SendMail = function () {
         };
         jQuery.ajax({
             type: "POST",
-            url: "php/sendMail.php",
+            url: "https://idetechno.000webhostapp.com/php/sendMail.php",
             data: params,
             success: function (response) {
                 if (response) {
